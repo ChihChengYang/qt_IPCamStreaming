@@ -12,7 +12,8 @@ Usage
 
 
 ### Demo
- 
+
+![Demo](https://github.com/ChihChengYang/qt_IPCamStreaming/demo.png) 
  
 ### Notice 
 
