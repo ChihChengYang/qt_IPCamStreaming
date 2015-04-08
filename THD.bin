@@ -1,0 +1,67 @@
+Mon Dec 15 14:51:57 2014, [0], RTPOpen_AutoConnect Entry
+Mon Dec 15 14:51:57 2014, [0], watch dog thread start
+Mon Dec 15 14:51:57 2014, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Mon Dec 15 14:51:57 2014, [0], rtp Open Success
+Mon Dec 15 14:56:26 2014, [0], RTPOpen_AutoConnect Entry
+Mon Dec 15 14:56:26 2014, [0], watch dog thread start
+Mon Dec 15 14:56:26 2014, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Mon Dec 15 14:56:26 2014, [0], rtp Open Success
+Mon Mar 23 17:18:59 2015, [0], RTPOpen_AutoConnect Entry
+Mon Mar 23 17:18:59 2015, [0], watch dog thread start
+Mon Mar 23 17:18:59 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Mon Mar 23 17:18:59 2015, [0], rtp Open Success
+Tue Apr 07 17:11:17 2015, [0], RTPOpen_AutoConnect Entry
+Tue Apr 07 17:11:20 2015, [0], watch dog thread start
+Tue Apr 07 17:11:20 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Tue Apr 07 17:11:20 2015, [0], rtp Open Success
+Tue Apr 07 17:12:03 2015, RecvH264RTPDataThread 1360
+
+Tue Apr 07 17:12:03 2015, RecvH264RTPDataThread 1369
+
+Tue Apr 07 17:12:03 2015, [0], RecvH264RTPDataThread thread stop
+Tue Apr 07 17:12:03 2015, [0], watch dog thread restart connection
+Tue Apr 07 17:12:03 2015, [0], rtp RTPStop
+Tue Apr 07 17:12:03 2015, [0], rtp RTPStop TEARDOWN
+Tue Apr 07 17:12:06 2015, [0], rtp RTPStop complete
+Tue Apr 07 17:12:06 2015, [0], WatchDogThread 555 Connect
+Tue Apr 07 17:12:06 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Tue Apr 07 17:30:27 2015, [0], RTPOpen_AutoConnect Entry
+Tue Apr 07 17:30:27 2015, [0], watch dog thread start
+Tue Apr 07 17:30:27 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Tue Apr 07 17:30:27 2015, [0], rtp Open Success
+Tue Apr 07 17:31:54 2015, [0], RTPOpen_AutoConnect Entry
+Tue Apr 07 17:31:54 2015, [0], watch dog thread start
+Tue Apr 07 17:31:54 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Tue Apr 07 17:31:54 2015, [0], rtp Open Success
+Tue Apr 07 17:53:21 2015, [0], RTPOpen_AutoConnect Entry
+Tue Apr 07 17:53:21 2015, [0], watch dog thread start
+Tue Apr 07 17:53:21 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Tue Apr 07 17:53:21 2015, [0], rtp Open Success
+Tue Apr 07 17:59:57 2015, [0], RTPOpen_AutoConnect Entry
+Tue Apr 07 17:59:57 2015, [0], watch dog thread start
+Tue Apr 07 17:59:57 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Tue Apr 07 17:59:57 2015, [0], rtp Open Success
+Wed Apr 08 17:27:19 2015, [0], RTPOpen_AutoConnect Entry
+Wed Apr 08 17:27:19 2015, [0], watch dog thread start
+Wed Apr 08 17:27:19 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Wed Apr 08 17:27:19 2015, [0], rtp Open Success
+Wed Apr 08 17:27:36 2015, [0], RTPOpen_AutoConnect Entry
+Wed Apr 08 17:27:36 2015, [0], watch dog thread start
+Wed Apr 08 17:27:36 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Wed Apr 08 17:27:36 2015, [0], rtp Open Success
+Wed Apr 08 17:28:47 2015, [0], RTPOpen_AutoConnect Entry
+Wed Apr 08 17:28:47 2015, [0], watch dog thread start
+Wed Apr 08 17:28:47 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Wed Apr 08 17:28:47 2015, [0], rtp Open Success
+Wed Apr 08 17:29:04 2015, [0], RTPOpen_AutoConnect Entry
+Wed Apr 08 17:29:04 2015, [0], watch dog thread start
+Wed Apr 08 17:29:04 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Wed Apr 08 17:29:04 2015, [0], rtp Open Success
+Wed Apr 08 17:29:25 2015, [0], RTPOpen_AutoConnect Entry
+Wed Apr 08 17:29:25 2015, [0], watch dog thread start
+Wed Apr 08 17:29:25 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Wed Apr 08 17:29:25 2015, [0], rtp Open Success
+Wed Apr 08 17:29:55 2015, [0], RTPOpen_AutoConnect Entry
+Wed Apr 08 17:29:55 2015, [0], watch dog thread start
+Wed Apr 08 17:29:55 2015, [0], rtp connect:10.62.8.102/mpeg4 10.62.8.102 554
+Wed Apr 08 17:29:55 2015, [0], rtp Open Success
