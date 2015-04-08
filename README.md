@@ -13,7 +13,7 @@ Usage
 
 ### Demo
 
-![Demo](https://github.com/ChihChengYang/qt_IPCamStreaming/demo.png) 
+![Demo](https://github.com/ChihChengYang/qt_IPCamStreaming/blob/master/demo.png) 
  
 ### Notice 
 
